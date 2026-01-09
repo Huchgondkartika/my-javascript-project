@@ -66,3 +66,4 @@ Choices.forEach((Choice)=>{
         playGames(userChoice);
     });
 });
+
